@@ -1,1 +1,1 @@
-# jsexam-1c:\Users\ANKUR\Pictures\Screenshots\jse-2.png c:\Users\ANKUR\Pictures\Screenshots\jse-1.png
+# jsexam-1c:![alt text](jse-1.png) ![alt text](jse-2.png)
